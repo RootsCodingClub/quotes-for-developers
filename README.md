@@ -18,3 +18,6 @@ FOUR
 
 FIVE
 “One of the best programming skills you can have is knowing when to walk away for a while.” – Oscar Godson
+
+SIX
+"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free." - Steve McConnell
