@@ -1,8 +1,6 @@
 #Inspirational quotes for developers
 
-As a programmer you probably have good days and bad ones. Like any job, it’s inevitable.
-And while we hope the majority of your days are successful, stimulating and fun, we understand that sometimes your motivation levels aren’t exactly where you need them to be.
-We’ve put together a list of our favourite developer quotes, designed to get you back in the zone, no matter what coding frustrations you were experiencing in the first place.
+As a developer, you know that the road to success is not always easy. It takes persistence, creativity, and a lot of hard work to stay on top of your game and build amazing software applications. But sometimes, even the most dedicated developers need a little extra motivation to keep going. That's why we've compiled a list of powerful quotes that will inspire and encourage you on your journey of coding and development. 
 
 ONE
 “We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.” – Ellen Ullman
@@ -17,4 +15,4 @@ FOUR
 “No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.” – Andy Hunt
 
 FIVE
-“One of the best programming skills you can have is knowing when to walk away for a while.” – Oscar Godson
+“One of the best programming skills you can have is knowing when to walk away for a while.” – David joshua
