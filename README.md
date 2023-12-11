@@ -18,3 +18,6 @@ FOUR
 
 FIVE
 “One of the best programming skills you can have is knowing when to walk away for a while.” – Oscar Godson
+
+SIX
+"Reading makes a broad mind,but writing makes an exact man"
